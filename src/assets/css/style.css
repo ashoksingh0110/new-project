@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.drawer{
+    list-style-type: none;
+}
+.drawer li{
+    padding: 5px 0;
+}
+.drawer a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+}
+.card1{
+    background-image: linear-gradient(to right, rgb(29, 102, 247) , rgb(77, 179, 252));
+}
+.card2{
+    background-image: linear-gradient(to right, rgb(68, 223, 68) , rgb(114, 224, 114));
+}
+.card3{
+    background-image: linear-gradient(to right, rgb(253, 44, 44) , rgb(247, 176, 43));
+}
+.card-style{
+    margin: 0;
+    padding: 0;
+    width: 290px;
+}
+.card-Title{
+    color: white;
+    font-size: 15px;
+}
+.card-Text{
+    color:white;
+    font-size: 35px;
+    font-weight: bolder;
+}
+.list-Item{
+    color: gray;
+    font-size: 10px
+}
